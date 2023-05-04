@@ -1,0 +1,7 @@
+.main {
+  display: flex;
+  margin-inline: auto;
+}
+.main > * {
+  flex: 1;
+}
